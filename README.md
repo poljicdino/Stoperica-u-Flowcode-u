@@ -1,4 +1,4 @@
-[README.md](https://github.com/user-attachments/files/28057861/README.md)[README.md](https://github.com/user-attachments/files/28057860/README.md)
+[README.md](https://github.com/user-attachments/files/28057861/README.md)
 # ⏱️ Štoperica — Flowcode Projekat
 
 <div align="center">
@@ -36,7 +36,7 @@ Ovaj projekat predstavlja **digitalnu štopericu** razvijenu u **Flowcode** vizu
 - Evidentiranje međurezultata (krugovi / lapovi)
 - Dizajn korisničkog interfejsa
 
-Projekat je realiziran kao dio nastavnog predmeta **[PRAKTIČNA NASTAVA]** u školskoj godini **2025/2026**.
+Projekat je realiziran kao dio nastavnog predmeta **PRAKTIČNA NASTAVA** u školskoj godini **2025/2026**.
 
 ---
 
@@ -172,10 +172,10 @@ stoperica-flowcode/
 
 **[Tvoje Ime i Prezime]**
 
-- 🏫 Škola: [Elektrotehnička škola Tuzla]
-- 📚 Razred: [3T2/Tehničar računarstva]
+- 🏫 Škola: Elektrotehnička škola Tuzla
+- 📚 Razred: 3T2/Tehničar računarstva
 - 📅 Školska godina: 2025/2026
-- 👨‍🏫 Profesor: [Alen Nuhić]
+- 👨‍🏫 Profesor: Alen Nuhić
 
 ---
 

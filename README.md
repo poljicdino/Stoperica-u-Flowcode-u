@@ -60,17 +60,16 @@ Projekat je realiziran kao dio nastavnog predmeta **PRAKTIČNA NASTAVA** u škol
 
 ## 📸 Snimci Ekrana
 
-> *Dodaj snimke ekrana svog projekta ovdje.*
+![Slika 1](screenshots/flowchart.png)
+![Slika 2](screenshots/projekat.png)
 
 ```
 screenshots/
-├── main_screen.png       ← Glavni ekran štoperice
-├── running_state.png     ← Štoperica u toku mjerenja
-├── paused_state.png      ← Štoperica pauzirana
-└── lap_list.png          ← Prikaz liste lapova
+├── flowchart.png       ← Glavni ekran štoperice
+├── projekat.png     ← Štoperica u toku mjerenja
 ```
 
-*Da dodaš snimak: `Uredi README → Zamijeni ovu sekciju sa slikom`*
+
 
 ---
 

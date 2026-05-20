@@ -36,7 +36,7 @@ Ovaj projekat predstavlja **digitalnu štopericu** razvijenu u **Flowcode** vizu
 - Evidentiranje međurezultata (krugovi / lapovi)
 - Dizajn korisničkog interfejsa
 
-Projekat je realiziran kao dio nastavnog predmeta **[naziv predmeta]** u školskoj godini **2024/2025**.
+Projekat je realiziran kao dio nastavnog predmeta **[PRAKTIČNA NASTAVA]** u školskoj godini **2025/2026**.
 
 ---
 
@@ -172,10 +172,10 @@ stoperica-flowcode/
 
 **[Tvoje Ime i Prezime]**
 
-- 🏫 Škola: [Naziv Škole]
-- 📚 Razred: [Razred/Smjer]
-- 📅 Školska godina: 2024/2025
-- 👨‍🏫 Nastavnik: [Ime Nastavnika]
+- 🏫 Škola: [Elektrotehnička škola Tuzla]
+- 📚 Razred: [3T2/Tehničar računarstva]
+- 📅 Školska godina: 2025/2026
+- 👨‍🏫 Profesor: [Alen Nuhić]
 
 ---
 
@@ -187,6 +187,6 @@ Ovaj projekat je izrađen u obrazovne svrhe i slobodan je za korištenje i modif
 
 <div align="center">
 
-Izrađeno sa ❤️ u **Flowcode-u** | Školski projekat 2024/2025
+Izrađeno sa ❤️ u **Flowcode-u** | Školski projekat 2025/2026
 
 </div>

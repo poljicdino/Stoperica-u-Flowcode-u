@@ -157,13 +157,14 @@ stoperica-flowcode/
 │
 ├── 📄 README.md              ← Ova datoteka
 ├── 📁 src/
-│   └── 🔧 stoperica.fcfx    ← Glavni Flowcode projekat
+│   └── 🔧 stoperica.fcf    ← Glavni Flowcode projekat
 │
-├── 📁 screenshots/           ← Snimci ekrana (dodaj ručno)
-│   └── ...
+├── 📁 screenshots/           ← Snimci ekrana 
+│   └── flowchart.png
+│   └── projekat.png
 │
 └── 📁 docs/
-    └── 📄 projektna_dokumentacija.pdf   ← Dokumentacija (opcionalno)
+    └── 📄 projektna_dokumentacija.pdf   ← Dokumentacija 
 ```
 
 ---
